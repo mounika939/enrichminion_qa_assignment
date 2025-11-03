@@ -4,7 +4,7 @@ This repository contains manual and automated QA artifacts for the [Enrich Minio
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 automation/
 ├── pages/
@@ -21,7 +21,7 @@ Absolutely, Mounika! Here's a clean summary of just the **`automation/` folder s
 
 ---
 
-## 📁 `automation/` Folder Structure
+##  `automation/` Folder Structure
 
 ```
 automation/
@@ -39,7 +39,7 @@ automation/
 
 ---
 
-## 🚀 How to Run the Automation
+##  How to Run the Automation
 
 ### 1. **Install Dependencies**
 
