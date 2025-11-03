@@ -18,7 +18,7 @@
 
 ---
 
-### ⚙️ Environment Setup (Postman)
+###  Environment Setup (Postman)
 
 1. Create an environment variable `base_url` →
    `https://enrichminion.vercel.app/api`
@@ -28,7 +28,7 @@
 
 ---
 
-### 📦 Collection Export
+###  Collection Export
 
 After creating all 10 tests:
 
